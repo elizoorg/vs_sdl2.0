@@ -1,5 +1,6 @@
 # SDL2.0 Basic project and libs
 
+# Windows 10
 1. Clone repository
 2. Copy SDL folder to C drive
 3. Install visual studio 
